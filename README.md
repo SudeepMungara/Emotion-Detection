@@ -1,2 +1,2 @@
 # Emotion-Detection
-Emotion Detectio project using google research data
+Emotion Detection project using google research data
